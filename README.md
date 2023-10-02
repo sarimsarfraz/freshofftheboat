@@ -16,6 +16,8 @@ We will use the News API, which provides a simple and easy-to-use interface to a
 
 ## Screenshot of Using Hoppscotch
 
+https://user-images.githubusercontent.com/49307039/271874117-67d8d75f-f5d7-435b-866a-60c8f2c47cc9.png
+
 
 
 ## Example usage
