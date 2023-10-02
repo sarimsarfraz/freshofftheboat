@@ -11,8 +11,8 @@ We are developing a finance data analysis application that interacts with the Al
 ## API Documentation
 You can find the documentation for the Alpha Vantage API [here](https://www.alphavantage.co/documentation/).
 
+https://user-images.githubusercontent.com/49307039/271870779-e6e492fb-a468-4ecc-82a7-ff516d658a72.png
 
-(Include a screenshot of using Postman or any tool to try out the API)
 
 ### Example Output
 Here's an example output of running our Java code:
