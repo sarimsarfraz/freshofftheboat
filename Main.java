@@ -9,7 +9,7 @@ public class NewsHeadlinesApp {
         // Replace 'YOUR_API_KEY' with your News API key
         String apiKey = "d9dd81bf4c1d45cc9feb20941333c9fd";
 
-        // Replace 'CATEGORY' with the desired news category (e.g., technology, sports, entertainment)
+        // Replace 'CATEGORY' with the desired news category (e.g, technology, sports, entertainment)
         String category = "Technology";
 
         // Construct the API request URL
